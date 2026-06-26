@@ -1,0 +1,6 @@
+audio_path,transcript,language
+../dataset/english/audio\sample_001.wav,The weather is very nice today,english
+../dataset/english/audio\sample_002.wav,I am learning machine learning,english
+../dataset/english/audio\sample_003.wav,My name is Disha and I am a developer,english
+../dataset/english/audio\sample_004.wav,Artificial intelligence is the future,english
+../dataset/english/audio\sample_005.wav,I love coding and building projects,english

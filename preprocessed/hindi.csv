@@ -1,0 +1,4 @@
+audio_path,transcript,language
+../dataset/hindi/audio\sample_001.wav,मेरा नाम दिशा है,hindi
+../dataset/hindi/audio\sample_002.wav,आज मौसम बहुत अच्छा है,hindi
+../dataset/hindi/audio\sample_003.wav,मुझे कोडिंग बहुत पसंद है,hindi

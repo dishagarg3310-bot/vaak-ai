@@ -1,0 +1,15 @@
+torch
+torchaudio
+transformers
+datasets
+openai-whisper
+pyttsx3
+gTTS
+librosa
+soundfile
+pyaudio
+numpy
+pandas
+streamlit
+tqdm
+scikit-learn
